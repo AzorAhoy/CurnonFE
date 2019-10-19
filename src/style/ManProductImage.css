@@ -1,0 +1,38 @@
+.man_product_image{
+    margin: auto;
+    position: relative;
+    text-align: center;
+    
+}
+
+h5{
+    color: grey;
+
+}
+h4{
+    text-align: center;
+   
+}
+
+hr{
+    height : 16px;
+    clear: both;
+}
+
+.abc{
+    width: 48% !important;
+    float: right !important;
+    text-align: center;
+}
+.xyz{
+    width: 48% !important;
+    float: left !important;
+    text-align: center;
+   
+}
+.a{
+    padding: 0 !important;
+}
+
+
+

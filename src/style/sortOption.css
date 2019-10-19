@@ -1,0 +1,25 @@
+.dropdown{ 
+    background-color: rgb(57, 201, 201) !important;
+    color:rgb(57, 201, 201) !important ;
+    width: 100%;
+}
+
+#drdr{
+ margin-right: 10%;
+ float: right;
+
+}
+select{
+    background-color: black !important;
+}
+.k-select{
+    background-color: blue !important;
+}
+#drd-left{
+    float: left;
+    margin-left: 10%;
+}
+#drd-left-1{
+    float: left;
+    margin-left: 1%;
+}
